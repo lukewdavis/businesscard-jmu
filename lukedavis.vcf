@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Davis;Luke;;;
+FN:Luke Davis
+ORG:Computer Science
+ADR;TYPE=WORK:
+TITLE:Student
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:540-830-3051
+EMAIL;TYPE=WORK:davis3lw@dukes.jmu.edu
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=Snapchat:https://www.snapchat.com/add/l_wdavis
+URL;TYPE=Instagram:https://instagram.com/l.w.davis
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100340652
+END:VCARD

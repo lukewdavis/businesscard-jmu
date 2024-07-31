@@ -1,0 +1,11 @@
+Indigo:
+Hex color:	#450084
+RGB:	69 0 132
+CMYK:	48 100 0 48
+Pantone:	PMS Medium Purple C
+
+Sand/Gold:
+Hex color:	#b3a369
+RGB:	179 163 105
+CMYK:	0 9 41 30
+Pantone:	PMS 4515 C

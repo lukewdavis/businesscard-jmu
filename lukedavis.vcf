@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:Davis;Luke;;;
 FN:Luke Davis
-ORG:Computer Science
+ORG:JMU CS
 ADR;TYPE=WORK:
 TITLE:Student
 TEL;TYPE=CELL:
@@ -14,7 +14,7 @@ URL;TYPE=Digital Business Card:
 URL:
 URL;TYPE=Snapchat:https://www.snapchat.com/add/l_wdavis
 URL;TYPE=Instagram:https://instagram.com/l.w.davis
-URL;TYPE=GitHub:https://github.com/luke
+URL;TYPE=GitHub:https://github.com/lukewdavis
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
 UID:EnBizCard-100292983
